@@ -4,6 +4,7 @@ Citizen.CreateThread(function()
         175, -- R
         37, -- G
         209, -- B
+        255    
     )
   end)
 
